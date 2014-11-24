@@ -7254,7 +7254,7 @@ EndChar
 StartChar: edieresis
 Encoding: 235 235 121
 Width: 585
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -9056,7 +9056,7 @@ EndChar
 StartChar: Otilde
 Encoding: 213 213 145
 Width: 746
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
